@@ -1,0 +1,17 @@
+.photo{
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(15, 88, 177),0 0 25px rgb(16, 84, 152);
+}
+.color{
+  margin: 0 auto;
+  margin-top: 40px;
+  background-color: pink;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  border-radius: 10px;
+  border: 2px solid blue;
+  box-shadow: 0 0 10px rgb(60, 255, 0),0 0 25px rgb(9, 255, 0);
+}
